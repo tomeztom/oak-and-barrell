@@ -142,3 +142,70 @@ body {
   background-color: var(--bg-cream);
   color: var(--text-on-light);
 }
+
+/* ──────────────────────────────────────────────
+   n8n Chat Widget — Brand Overrides
+   Scoped to .chat-window-wrapper to beat CDN :root specificity
+   ────────────────────────────────────────────── */
+
+.chat-window-wrapper {
+  --chat--color--primary: #D4782F;
+  --chat--color--primary-shade-50: #E8863A;
+  --chat--color--primary--shade-100: #BF6A28;
+
+  --chat--color--secondary: #D4782F;
+  --chat--color-secondary-shade-50: #E8863A;
+
+  --chat--color-white: #FAF5ED;
+  --chat--color-light: #F0E8DA;
+  --chat--color-light-shade-50: #E6DED0;
+  --chat--color-light-shade-100: #D9CFBF;
+  --chat--color-medium: #B0B0B0;
+  --chat--color-dark: #121212;
+
+  --chat--font-family: var(--font-inter), 'Helvetica Neue', sans-serif;
+  --chat--border-radius: 8px;
+
+  --chat--window--width: 380px;
+  --chat--window--height: 600px;
+
+  --chat--header--background: #121212;
+  --chat--header--color: #FFFFFF;
+
+  --chat--toggle--background: #D4782F;
+  --chat--toggle--hover--background: #E8863A;
+  --chat--toggle--active--background: #BF6A28;
+  --chat--toggle--color: #FFFFFF;
+  --chat--toggle--size: 56px;
+
+  --chat--message--bot--background: #1E1E1E;
+  --chat--message--bot--color: #FFFFFF;
+  --chat--message--bot--border: none;
+
+  --chat--message--user--background: #D4782F;
+  --chat--message--user--color: #FFFFFF;
+  --chat--message--user--border: none;
+
+  --chat--button--background--primary: #D4782F;
+  --chat--button--color--primary: #FFFFFF;
+
+  --chat--input--background: #1E1E1E;
+  --chat--input--text-color: #FFFFFF;
+  --chat--input--container--background: #1E1E1E;
+  --chat--input--container--border: 1px solid #2A2A2A;
+  --chat--input--container--border-radius: 8px;
+
+  --chat--input--send--button--background: transparent;
+  --chat--input--send--button--color: #D4782F;
+  --chat--input--send--button--background-hover: rgba(212, 120, 47, 0.15);
+  --chat--input--send--button--color-hover: #E8863A;
+
+  --chat--body--background: #1A1A2E;
+
+  --chat--footer--background: #1A1A2E;
+  --chat--footer--color: #B0B0B0;
+  --chat--footer--border-top: 1px solid #2A2A2A;
+
+  --chat--heading--font-size: 1.25rem;
+  --chat--subtitle--font-size: 0.875rem;
+}
