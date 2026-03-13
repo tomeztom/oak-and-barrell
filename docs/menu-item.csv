@@ -1,0 +1,49 @@
+Category,Item Name,Description,Price,Badge
+Appetizers,Truffle Burrata,"Creamy burrata, black truffle, arugula, aged balsamic",18,Chef's Pick
+Appetizers,Wagyu Beef Tartare,"Hand-cut wagyu, quail egg, capers, cornichons, grilled sourdough",22,Signature
+Appetizers,Crispy Calamari,"Lightly battered, served with marinara and lemon aioli",16,
+Appetizers,Soup of the Day,"Chef's daily creation, served with artisan bread",12,Daily Special
+Appetizers,Lobster Bisque,"Silky lobster bisque finished with crème fraîche and chives",15,
+Appetizers,Charred Octopus,"Wood-grilled octopus, fingerling potatoes, paprika oil, lemon",21,Popular
+Appetizers,Stuffed Peppers,"Roasted mini peppers filled with herbed goat cheese",14,Vegetarian
+Appetizers,Tuna Tataki,"Seared yellowfin tuna, ponzu, sesame, pickled radish",19,
+Sushi & Sashimi,Chef's Omakase,"A curated selection of the freshest seasonal fish",68,Premium
+Sushi & Sashimi,Dragon Roll,"Shrimp tempura, eel, avocado, spicy mayo, eel sauce",24,Best Seller
+Sushi & Sashimi,Salmon Sashimi,"8 pieces of premium Norwegian salmon",26,
+Sushi & Sashimi,Spicy Tuna Roll,"Fresh tuna, spicy mayo, cucumber, sesame seeds",18,
+Sushi & Sashimi,Rainbow Roll,"California roll topped with assorted sashimi",24,Popular
+Sushi & Sashimi,Yellowtail Jalapeño,"Thin-sliced yellowtail, jalapeño, yuzu soy, cilantro",20,
+Sushi & Sashimi,Crunchy Shrimp Roll,"Tempura shrimp, avocado, cucumber, crispy panko, spicy aioli",19,
+Sushi & Sashimi,Unagi Nigiri,"Freshwater eel over seasoned rice, brushed with sweet soy",14,
+Sushi & Sashimi,Toro Sashimi,"Buttery bluefin toro, chef garnish, ponzu pearls",34,Premium
+Prime Steaks,Prime Ribeye,"16oz aged ribeye, herb butter, roasted garlic, seasonal vegetables",58,House Favorite
+Prime Steaks,Filet Mignon,"8oz center-cut tenderloin, red wine reduction, truffle mash",54,
+Prime Steaks,NY Strip,"14oz bone-in strip, peppercorn sauce, crispy onion rings",48,
+Prime Steaks,Tomahawk Ribeye,"32oz bone-in ribeye for two, roasted bone marrow, chimichurri",110,For Two
+Prime Steaks,Surf & Turf,"Filet medallions with butter-poached lobster tail and asparagus",72,Signature
+Prime Steaks,Flat Iron Steak Frites,"Marinated flat iron steak, parmesan fries, garlic butter",34,
+Prime Steaks,Steak Diane,"Sliced tenderloin, mushroom cognac sauce, whipped potatoes",46,
+Burgers & Grills,The Classic Oak,"Prime beef patty, aged cheddar, lettuce, tomato, Oak sauce",21,Best Seller
+Burgers & Grills,Wagyu Smash Burger,"Double wagyu patties, American cheese, caramelized onions",24,Signature
+Burgers & Grills,Truffle Mushroom Burger,"Beef patty, swiss cheese, sautéed mushrooms, truffle aioli",23,
+Burgers & Grills,BBQ Bacon Burger,"Beef patty, smoked bacon, cheddar, crispy onions, house BBQ sauce",22,
+Burgers & Grills,Grilled Chicken Sandwich,"Herb-marinated chicken breast, provolone, tomato jam, arugula",19,
+Burgers & Grills,Lamb Kofta Plate,"Spiced lamb skewers, saffron rice, tzatziki, grilled vegetables",27,
+Burgers & Grills,Oakhouse Veggie Burger,"Black bean patty, avocado, pickled onion, chipotle mayo",18,Vegetarian
+Burgers & Grills,Short Rib Melt,"Braised short rib, caramelized onions, gruyère, toasted sourdough",24,
+Craft Beverages,Local IPA,"Hoppy and citrus-forward, from our local craft brewery",8,Local
+Craft Beverages,Belgian Wheat,"Light and refreshing with hints of orange and coriander",9,
+Craft Beverages,Stout,"Rich and creamy with coffee and chocolate notes",9,
+Craft Beverages,Pilsner,"Clean and crisp, a perfect complement to any meal",7,
+Craft Beverages,House Chardonnay,"Bright and balanced with notes of apple and vanilla",11,By the Glass
+Craft Beverages,Cabernet Reserve,"Full-bodied red with dark berry and oak finish",14,Sommelier Pick
+Craft Beverages,Yuzu Spritz,"Sparkling citrus mocktail with yuzu, mint, and soda",8,Non-Alcoholic
+Craft Beverages,Cold Brew Tonic,"Smooth cold brew coffee with tonic and orange peel",7,
+Desserts,Chocolate Lava Cake,"Warm chocolate cake with molten center and vanilla gelato",13,Best Seller
+Desserts,Basque Cheesecake,"Creamy burnt cheesecake with seasonal berry compote",12,
+Desserts,Matcha Tiramisu,"Japanese-inspired tiramisu with mascarpone and matcha dust",11,Chef's Pick
+Desserts,Lemon Tart,"Buttery tart shell filled with lemon curd and toasted meringue",10,
+Sides,Truffle Fries,"Crispy fries tossed with truffle oil and parmesan",9,Popular
+Sides,Mac & Cheese,"Three-cheese baked macaroni with herb crumb",10,
+Sides,Grilled Asparagus,"Charred asparagus finished with sea salt and lemon",8,
+Sides,Garlic Mash,"Creamy mashed potatoes with roasted garlic and butter",8,

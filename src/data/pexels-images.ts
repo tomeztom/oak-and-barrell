@@ -1,0 +1,66 @@
+export const images = {
+  hero: "/images/hero/hero.webp",
+  aboutHero: "/images/hero/about-hero.webp",
+  founder: "/images/about/founder.webp",
+  chef: "/images/about/chef.webp",
+  menuHero: "/images/hero/menu-hero.webp",
+  eventFriday: "/images/events/event-friday.webp",
+  eventSunday: "/images/events/event-sunday.webp",
+} as const;
+
+export const menuImages = {
+  // Appetizers
+  truffleBurrata: "/images/menu/truffle-burrata.webp",
+  wagyu: "/images/menu/wagyu.webp",
+  hamachi: "/images/menu/hamachi.webp",
+  edamame: "/images/menu/edamame.webp",
+  agedTuna: "/images/menu/aged-tuna.webp",
+  shrimpTempura: "/images/menu/shrimp-tempura.webp",
+  beefCarpaccio: "/images/menu/beef-carpaccio.webp",
+  // Sushi & Sashimi
+  dragonRoll: "/images/menu/dragon-roll.webp",
+  toroSashimi: "/images/menu/toro-sashimi.webp",
+  salmonNigiri: "/images/menu/salmon-nigiri.webp",
+  spicyTunaRoll: "/images/menu/spicy-tuna-roll.webp",
+  omakase: "/images/menu/omakase.webp",
+  rainbowRoll: "/images/menu/rainbow-roll.webp",
+  unagiNigiri: "/images/menu/aged-tuna.webp",
+  yellowtailJalapeno: "/images/menu/hamachi.webp",
+  // Prime Steaks
+  primeRibeye: "/images/menu/prime-ribeye.webp",
+  filetMignon: "/images/menu/filet-mignon.webp",
+  nyStrip: "/images/menu/ny-strip.webp",
+  tBone: "/images/menu/t-bone.webp",
+  wagyuA5: "/images/menu/wagyu.webp",
+  tomahawk: "/images/menu/tomahawk.webp",
+  // Burgers & Grills
+  wagyuSmashBurger: "/images/menu/wagyu-smash-burger.webp",
+  oakBarrellBurger: "/images/menu/oak-barrell-burger.webp",
+  grilledChicken: "/images/menu/grilled-chicken.webp",
+  lambChops: "/images/menu/filet-mignon.webp",
+  truffleBurger: "/images/menu/truffle-burger.webp",
+  bbqBrisket: "/images/menu/bbq-brisket.webp",
+  mushroomBurger: "/images/menu/mushroom-burger.webp",
+  // Craft Beverages
+  oldFashioned: "/images/menu/old-fashioned.webp",
+  sakeFlight: "/images/menu/sake-flight.webp",
+  ipaFlight: "/images/menu/ipa-flight.webp",
+  matchaHighball: "/images/menu/matcha-highball.webp",
+  redWine: "/images/menu/red-wine.webp",
+  espressoMartini: "/images/menu/espresso-martini.webp",
+  yuzuSpritz: "/images/menu/yuzu-spritz.webp",
+  craftLager: "/images/menu/craft-lager.webp",
+  // Desserts
+  chocolateLava: "/images/menu/chocolate-lava.webp",
+  matchaTiramisu: "/images/menu/matcha-tiramisu.webp",
+  yuzuCheesecake: "/images/menu/yuzu-cheesecake.webp",
+  mochi: "/images/menu/mochi.webp",
+  cremeBrulee: "/images/menu/creme-brulee.webp",
+  // Sides
+  truffleFries: "/images/menu/truffle-fries.webp",
+  grilledAsparagus: "/images/menu/grilled-asparagus.webp",
+  misoSoup: "/images/menu/miso-soup.webp",
+  cremedSpinach: "/images/menu/shrimp-tempura.webp",
+  japaneseSlaw: "/images/menu/japanese-slaw.webp",
+  loadedPotato: "/images/menu/loaded-potato.webp",
+} as const;
